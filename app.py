@@ -55,7 +55,7 @@ if st.button("Shearing"):
   result=import_and_predict(image)
   
 if st.button("About"):
-  st.header(" Sudhanshu Vijay")
+  st.header(" Shruti Jain")
   st.subheader("Student, Department of Computer Engineering")
 html_temp = """
    <div class="" style="background-color:orange;" >
